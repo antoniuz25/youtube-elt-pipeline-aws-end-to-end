@@ -1,0 +1,8 @@
+
+_pycache_/
+*.pyc
+.env
+logs/
+gold_data/
+*.log
+
