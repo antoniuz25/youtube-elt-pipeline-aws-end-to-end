@@ -17,7 +17,9 @@ and produces analytical dataset for visualization in Power bi
 
 ##MEDALLION ARCHITECTURE 
 -BRONZE LAYER:Stores raw data responses from api without transformation ,all files stored as .json 
+
 -SILVER LAYER:Take raw data from bronze to transform records into structured datasets ,normalizing numeric metrics and extract useful attributes
+
 -GOLD LAYER :Creates analytics ready dataset for reporting and dashboard 
 
 
@@ -87,7 +89,9 @@ Create a .env file with your AWS credentials and YouTube API key
 Run the pipeline scripts:
 
 python bronze_ingest.py
+
 python silver_transform.py
+
 python gold_analytics.py
 
 
