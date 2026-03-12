@@ -23,13 +23,18 @@ and produces analytical dataset for visualization in Power bi
 
 ##TECH STACK
 -Python 
+
 -Youtube v3 api
+
 -Amazon Web Services S3
+
 -Pandas
+
 -PyArrow
 
 
 ##DATA PIPELINE FLOW 
+
 <img width="782" height="102" alt="flow chart pipeline yt" src="https://github.com/user-attachments/assets/ec8208b1-12df-42eb-84f1-5654af17cbf5" />
 
 
@@ -50,12 +55,15 @@ video title, view count, and publication year
 
 ##DASHBOARD
 Overview Dashboard
+
 <img width="1741" height="1051" alt="image" src="https://github.com/user-attachments/assets/b6e50931-9224-41b0-814d-7fd9ec321f6e" />
 
 Top videos 2015-2019
+
 <img width="1733" height="806" alt="image" src="https://github.com/user-attachments/assets/5fa3e5ae-31b4-4b59-a5c0-379854b11dd9" />
 
 Genre Coverage
+
 <img width="1688" height="983" alt="image" src="https://github.com/user-attachments/assets/5644662a-5b1f-4b4f-886e-04134c863af4" />
 
 
