@@ -16,6 +16,7 @@ and produces analytical dataset for visualization in Power bi
 
 
 ##MEDALLION ARCHITECTURE 
+
 -BRONZE LAYER:Stores raw data responses from api without transformation ,all files stored as .json 
 
 -SILVER LAYER:Take raw data from bronze to transform records into structured datasets ,normalizing numeric metrics and extract useful attributes
